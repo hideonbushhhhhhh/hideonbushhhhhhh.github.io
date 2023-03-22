@@ -13,7 +13,7 @@ redirect_from:
 News
 ------
 - 12/2022: Our paper-InfoMasker was accepted at NDSS'2023.
-- 2022: Started an internship at Microsoft, advised by Dr. [Shuang Ma](https://www.shuangma.me/).
+- 2022: Started an internship at Microsoft, supervised by Dr. [Shuang Ma](https://www.shuangma.me/).
 
 Research Experience
 ------
