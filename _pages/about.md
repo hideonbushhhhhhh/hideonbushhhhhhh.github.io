@@ -8,10 +8,13 @@ redirect_from:
   - /about.html
 ---
 
- I am a second year master at Zhejiang University. I am glad to advised by Prof. [Zhongjie Ba](https://scholar.google.com/citations?user=dO2kc6kAAAAJ), Before ZJU, I obtained my Bachelor’s degree in Computer Science from Zhejiang University City College(Hangzhou City University).
 
-My current research interest focused on developing general-purpose model models for perception and control.
-My particular interest lies in designing for sequential decision-making, utilizing unified approaches to learn from diverse and/or unlabeled sequential data, and boarder logistic and applications with large foundation models.
+
+I am a second-year master student at Zhejiang University, and I am fortunate to be advised by Prof. [Zhongjie Ba](https://scholar.google.com/citations?user=dO2kc6kAAAAJ). Prior to attending ZJU, I earned my Bachelor's degree in Computer Science from Zhejiang University City College (Hangzhou City University). My current research interests are focused on developing general-purpose models for perception and control.
+
+
+
+[//]: # (My particular interest lies in designing for sequential decision-making, utilizing unified approaches to learn from diverse and/or unlabeled sequential data, and boarder logistic and applications with large foundation models.)
 
 News
 ------
