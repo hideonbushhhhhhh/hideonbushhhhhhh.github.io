@@ -8,16 +8,26 @@ redirect_from:
   - /about.html
 ---
 
- I am a second year master at Zhejiang University. I am glad to advised by Prof. [Zhongjie Ba](https://scholar.google.com/citations?user=dO2kc6kAAAAJ), Before ZJU, I obtained my Bachelor’s degree in Computer Science from Zhejiang University City College.
+ I am a second year master at Zhejiang University. I am glad to advised by Prof. [Zhongjie Ba](https://scholar.google.com/citations?user=dO2kc6kAAAAJ), Before ZJU, I obtained my Bachelor’s degree in Computer Science from Zhejiang University City College(Hangzhou City University).
 
+My current research interest focused on developing general-purpose model models for perception and control.
+My particular interest lies in designing for sequential decision-making, utilizing unified approaches to learn from diverse and/or unlabeled sequential data, and boarder logistic and applications with large foundation models.
 News
 ------
 - 12/2022: Our paper-InfoMasker was accepted at NDSS'2023.
-- 2022: Started an internship at Microsoft, supervised by Dr. [Shuang Ma](https://www.shuangma.me/).
+- 05/2022: Started an internship at , supervised by Dr. [Shuang Ma](https://www.shuangma.me/).
 
 Research Experience
 ------
 
+- **Research Intern:**  Microsoft Research. May 2022 - Present  <br> 
+  &emsp;&emsp;&emsp;&emsp;-- Supervised by Dr. [Shuang Ma](https://www.shuangma.me/) <br>
+  + **Pretraining model for perception and control** <br>
+    designed multi-domain multi-task model for sequential decision-making, utilizing unified approaches to learn from diverse and/or unlabeled sequential data, and boarder logistic and applications with large foundation models.(In submission)
+- **Research Assistant:** Zhejiang University. Sep. 2021 - Present <br>
+  &emsp;&emsp;&emsp;&emsp;-- Advisor: Prof. [Zhongjie Ba](https://scholar.google.com/citations?user=dO2kc6kAAAAJ)  <br>
+  + **Speech privacy eavesdropping protection**<br>
+    design a phoneme-based noise that is robust against denoising methods and can effectively prevent both humans and machines from understanding the jammed signals.
 
 Selected Publications
 ------
