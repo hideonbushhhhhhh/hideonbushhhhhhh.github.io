@@ -16,7 +16,7 @@ My particular interest lies in designing for sequential decision-making, utilizi
 News
 ------
 - 12/2022: Our paper-InfoMasker was accepted at NDSS'2023.
-- 05/2022: Started an internship at , supervised by Dr. [Shuang Ma](https://www.shuangma.me/).
+- 05/2022: Started an internship at Microsoft, supervised by Dr. [Shuang Ma](https://www.shuangma.me/).
 
 Research Experience
 ------
