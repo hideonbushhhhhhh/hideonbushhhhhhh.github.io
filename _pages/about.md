@@ -21,10 +21,10 @@ News
 Research Experience
 ------
 
-- **Research Intern:**  Microsoft Research. Supervised by Dr. [Shuang Ma](https://www.shuangma.me/)   &emsp;&emsp;&emsp;&emsp;May 2022 - Present <br>
+- **Research Intern:**  Microsoft Research. Supervised by Dr. [Shuang Ma](https://www.shuangma.me/). May 2022 - Present <br>
   + **Pretraining model for perception and control** <br>
     designed multi-domain multi-task model for sequential decision-making, utilizing unified approaches to learn from diverse and/or unlabeled sequential data, and boarder logistic and applications with large foundation models.(In submission)
-- **Research Assistant:** Zhejiang University. Advisor: Prof. [Zhongjie Ba](https://scholar.google.com/citations?user=dO2kc6kAAAAJ) &emsp;&emsp;&emsp;&emsp;  Sep. 2021 - Present   <br>
+- **Research Assistant:** Zhejiang University. Advisor: Prof. [Zhongjie Ba](https://scholar.google.com/citations?user=dO2kc6kAAAAJ). Sep. 2021 - Present   <br>
   + **Speech privacy eavesdropping protection**<br>
     design a phoneme-based noise that is robust against denoising methods and can effectively prevent both humans and machines from understanding the jammed signals.
 
